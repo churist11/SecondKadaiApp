@@ -14,6 +14,7 @@
 		2F112ABD2572475A00204F55 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F112ABC2572475A00204F55 /* Assets.xcassets */; };
 		2F112AC02572475A00204F55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F112ABE2572475A00204F55 /* LaunchScreen.storyboard */; };
 		2F112AC82572659A00204F55 /* Special.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F112AC72572659A00204F55 /* Special.swift */; };
+		2F112ACA257266BE00204F55 /* GreetingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F112AC9257266BE00204F55 /* GreetingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2F112ABF2572475A00204F55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F112AC12572475A00204F55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F112AC72572659A00204F55 /* Special.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Special.swift; sourceTree = "<group>"; };
+		2F112AC9257266BE00204F55 /* GreetingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2F112ABE2572475A00204F55 /* LaunchScreen.storyboard */,
 				2F112AC12572475A00204F55 /* Info.plist */,
 				2F112AC72572659A00204F55 /* Special.swift */,
+				2F112AC9257266BE00204F55 /* GreetingViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				2F112AB82572475900204F55 /* ViewController.swift in Sources */,
 				2F112AC82572659A00204F55 /* Special.swift in Sources */,
 				2F112AB42572475900204F55 /* AppDelegate.swift in Sources */,
+				2F112ACA257266BE00204F55 /* GreetingViewController.swift in Sources */,
 				2F112AB62572475900204F55 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
