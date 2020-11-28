@@ -1,0 +1,2 @@
+# SecondKadaiApp
+あいさつアプリ
